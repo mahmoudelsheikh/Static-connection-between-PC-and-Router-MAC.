@@ -12,4 +12,4 @@ netsh -c interface ipv4 add neighbors "NIC name" <Router ip> <Router MAC>
 netsh -c interface ipv4 add neighbors "NIC name" <Router ip> <Router MAC>
 pause
 
-pause --> used to freeze the cmd window to see if there is errors untill u press any key if not or solving the problem.
+# pause --> used to freeze the cmd window to see if there is errors untill u press any key if not or solving the problem.
